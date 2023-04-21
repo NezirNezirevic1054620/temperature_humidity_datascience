@@ -35,6 +35,7 @@ As you can see there are 2 charts, the Temperature chart and the Humidity chart,
 
 Here is the Write Api key that was used to insert data into those 2 charts.
 
-
-
+## Video Link
+Hier is de video voorbeeld van mijn project: 
+https://cdn.discordapp.com/attachments/1037350971753373819/1099093149319700690/8mb.video-Uqb-wzobpnkE.mp4
 
