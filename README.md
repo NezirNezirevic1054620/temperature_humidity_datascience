@@ -39,3 +39,6 @@ Here is the Write Api key that was used to insert data into those 2 charts.
 Hier is de video voorbeeld van mijn project: 
 https://cdn.discordapp.com/attachments/1037350971753373819/1099093149319700690/8mb.video-Uqb-wzobpnkE.mp4
 
+##ThingsSpeak link
+https://thingspeak.com/channels/2117735
+
